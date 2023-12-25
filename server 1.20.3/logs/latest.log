@@ -1,0 +1,194 @@
+[11:37:29] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[11:37:30] [ServerMain/INFO]: Loaded 7 recipes
+[11:37:31] [ServerMain/INFO]: Loaded 1271 advancements
+[11:37:31] [Server thread/INFO]: Starting minecraft server version 1.20.3
+[11:37:31] [Server thread/INFO]: Loading properties
+[11:37:31] [Server thread/INFO]: Default game type: SURVIVAL
+[11:37:31] [Server thread/INFO]: Generating keypair
+[11:37:31] [Server thread/INFO]: Starting Minecraft server on 192.168.1.38:47561
+[11:37:31] [Server thread/INFO]: Using epoll channel type
+[11:37:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:37:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:37:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:37:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:37:31] [Server thread/INFO]: Preparing level "world"
+[11:37:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:37:35] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[11:37:35] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[11:37:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:37:35] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[11:37:35] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[11:37:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:37:36] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:37:36] [Worker-Main-10/INFO]: Preparing spawn area: 48%
+[11:37:37] [Server thread/INFO]: Time elapsed: 3832 ms
+[11:37:37] [Server thread/INFO]: Done (5.397s)! For help, type "help"
+[11:37:48] [Server thread/INFO]: Trosquito[/139.47.60.209:39661] logged in with entity id 96 at (333.16191023257886, 159.0, 648.201336954314)
+[11:37:48] [Server thread/INFO]: Trosquito joined the game
+[11:38:23] [Server thread/INFO]: a5ephu[/192.168.1.129:50284] logged in with entity id 636 at (-155.73956215693693, 104.0, -245.47432089212728)
+[11:38:23] [Server thread/INFO]: a5ephu joined the game
+[11:40:36] [Server thread/INFO]: Villager cev['Villager'/1154, l='ServerLevel[world]', x=-245.70, y=83.00, z=-269.14] died, message: 'Villager was squished too much'
+[11:42:10] [Server thread/INFO]: Villager cev['Villager'/1157, l='ServerLevel[world]', x=-245.30, y=83.05, z=-269.14] died, message: 'Villager was squished too much'
+[11:52:18] [Server thread/INFO]: Villager cev['Villager'/6809, l='ServerLevel[world]', x=-245.70, y=83.04, z=-269.34] died, message: 'Villager was squished too much'
+[11:53:10] [Server thread/INFO]: Villager cev['Librarian'/6897, l='ServerLevel[world]', x=-231.51, y=80.00, z=-320.51] died, message: 'Librarian was slain by Trosquito'
+[11:57:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2194ms or 43 ticks behind
+[11:57:57] [Server thread/INFO]: a5ephu lost connection: Disconnected
+[11:57:57] [Server thread/INFO]: a5ephu left the game
+[11:57:57] [Server thread/WARN]: handleDisconnection() called twice
+[11:57:57] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[11:57:57] [Server thread/INFO]: <--[HERE]
+[11:57:58] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[11:57:58] [Server thread/INFO]: <--[HERE]
+[11:58:11] [Server thread/INFO]: Trosquito lost connection: Disconnected
+[11:58:11] [Server thread/INFO]: Trosquito left the game
+[11:58:49] [Server thread/INFO]: Trosquito[/139.47.60.209:38224] logged in with entity id 9128 at (-236.71425397232014, 78.16610926093821, -313.4041461073697)
+[11:58:49] [Server thread/INFO]: Trosquito joined the game
+[11:59:10] [Server thread/INFO]: a5ephu[/192.168.1.129:50320] logged in with entity id 9954 at (-240.29802035577958, 78.0, -312.549806982765)
+[11:59:10] [Server thread/INFO]: a5ephu joined the game
+[12:00:14] [Server thread/INFO]: Villager cev['Villager'/9238, l='ServerLevel[world]', x=-245.70, y=83.05, z=-269.70] died, message: 'Villager was squished too much'
+[12:02:23] [Server thread/INFO]: [Not Secure] <Trosquito> zzzz
+[12:22:10] [Server thread/INFO]: Trosquito tried to swim in lava
+[12:26:43] [Server thread/INFO]: Villager cev['Villager'/14051, l='ServerLevel[world]', x=-245.30, y=83.00, z=-269.13] died, message: 'Villager was squished too much'
+[12:32:19] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-72, y=56, z=-77} hx{x=-72, y=55, z=-78}
+[12:32:19] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-72, y=56, z=-77} hx{x=-72, y=55, z=-78}
+[12:32:19] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-72, y=56, z=-77} hx{x=-72, y=55, z=-78}
+[12:34:34] [Server thread/INFO]: [Not Secure] <Trosquito> La Revolución Industrial o Primera Revolución Industrial es el proceso de transformación económica, social y tecnológica que se inició en la segunda mitad del siglo xviii en el Reino de Gran Bretaña, que se extendió unas décadas después a gran parte de Eur
+[12:35:57] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=9, y=40, z=-63} hx{x=-75, y=52, z=-46}
+[12:36:15] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-85, y=63, z=-46} hx{x=-86, y=63, z=-46}
+[12:36:15] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-85, y=63, z=-46} hx{x=-86, y=63, z=-46}
+[12:36:15] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-85, y=63, z=-46} hx{x=-86, y=63, z=-46}
+[12:36:15] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-85, y=63, z=-46} hx{x=-86, y=63, z=-46}
+[12:36:15] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-85, y=63, z=-46} hx{x=-86, y=63, z=-46}
+[12:36:15] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-85, y=63, z=-46} hx{x=-86, y=63, z=-46}
+[12:36:28] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-81, y=77, z=-45} hx{x=-80, y=77, z=-45}
+[12:36:28] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-81, y=77, z=-45} hx{x=-80, y=77, z=-45}
+[12:36:28] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-81, y=77, z=-45} hx{x=-80, y=77, z=-45}
+[12:36:28] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-81, y=77, z=-45} hx{x=-80, y=77, z=-45}
+[12:36:43] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-65, y=86, z=-45} hx{x=-64, y=87, z=-45}
+[12:38:27] [Server thread/INFO]: Trosquito lost connection: Disconnected
+[12:38:27] [Server thread/INFO]: Trosquito left the game
+[12:39:54] [Server thread/INFO]: Trosquito[/139.47.60.209:39094] logged in with entity id 21837 at (-234.18568767549658, 83.0, -320.1734122528555)
+[12:39:54] [Server thread/INFO]: Trosquito joined the game
+[12:43:02] [Server thread/INFO]: [Not Secure] <a5ephu> estoy mute pero te oigo
+[12:44:45] [Server thread/INFO]: [Not Secure] <a5ephu> si
+[12:47:39] [Server thread/INFO]: Aila[/91.117.234.113:45842] logged in with entity id 24872 at (219.0158833556841, 104.0, 316.5246330201829)
+[12:47:39] [Server thread/INFO]: Aila joined the game
+[12:49:15] [Server thread/INFO]: [Not Secure] <a5ephu> siw
+[12:49:28] [Server thread/INFO]: [Not Secure] <a5ephu> :8
+[12:58:36] [Server thread/INFO]: [Not Secure] <a5ephu> david
+[12:58:40] [Server thread/INFO]: [Not Secure] <a5ephu> confirmas si es el end?
+[12:58:44] [Server thread/INFO]: [Not Secure] <a5ephu> ah
+[13:02:04] [Server thread/INFO]: [Not Secure] <a5ephu> si
+[13:02:12] [Server thread/INFO]: [Not Secure] <a5ephu> lol
+[13:02:12] [Server thread/INFO]: [Not Secure] <a5ephu> a
+[13:02:13] [Server thread/INFO]: [Not Secure] <a5ephu> a
+[13:06:03] [Server thread/INFO]: [Not Secure] <a5ephu> ...
+[13:06:28] [Server thread/INFO]: [Not Secure] <Aila> ...
+[13:06:30] [Server thread/INFO]: [Not Secure] <Trosquito> ...
+[13:06:30] [Server thread/INFO]: [Not Secure] <a5ephu> a ver si mejoras lo de no morirte
+[13:06:32] [Server thread/INFO]: [Not Secure] <a5ephu> crack
+[13:06:41] [Server thread/INFO]: [Not Secure] <a5ephu> excusas
+[13:07:29] [Server thread/INFO]: [Not Secure] <a5ephu> si
+[13:09:33] [Server thread/INFO]: [Not Secure] <a5ephu> chicos
+[13:09:37] [Server thread/INFO]: [Not Secure] <a5ephu> fortaleza del nether
+[13:09:39] [Server thread/INFO]: [Not Secure] <a5ephu> de la tocha
+[13:09:46] [Server thread/INFO]: [Not Secure] <a5ephu> -296, 128
+[13:09:47] [Server thread/INFO]: [Not Secure] <a5ephu> no
+[13:09:50] [Server thread/INFO]: [Not Secure] <a5ephu> de la de netherite
+[13:09:51] [Server thread/INFO]: [Not Secure] <a5ephu> si
+[13:09:56] [Server thread/INFO]: [Not Secure] <a5ephu> bastion
+[13:10:12] [Server thread/INFO]: [Not Secure] <a5ephu> ok os cagais
+[13:10:33] [Server thread/INFO]: [Not Secure] <a5ephu> yo me la juego
+[13:10:37] [Server thread/INFO]: [Not Secure] <a5ephu> preparad una tumba
+[13:10:47] [Server thread/INFO]: [Not Secure] <a5ephu> ya
+[13:11:05] [Server thread/INFO]: a5ephu has made the advancement [Those Were the Days]
+[13:11:17] [Server thread/INFO]: [Not Secure] <a5ephu> por llegar al bastion
+[13:12:03] [Server thread/INFO]: a5ephu has made the advancement [War Pigs]
+[13:13:26] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-292, y=80, z=105} hx{x=-260, y=81, z=143}
+[13:13:26] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-292, y=80, z=105} hx{x=-260, y=81, z=143}
+[13:13:26] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-292, y=80, z=105} hx{x=-260, y=81, z=143}
+[13:13:26] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-292, y=80, z=105} hx{x=-260, y=81, z=143}
+[13:13:26] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-292, y=80, z=105} hx{x=-260, y=81, z=143}
+[13:13:26] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-292, y=80, z=105} hx{x=-260, y=81, z=143}
+[13:13:26] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-292, y=80, z=105} hx{x=-260, y=81, z=143}
+[13:13:26] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-292, y=80, z=105} hx{x=-260, y=81, z=143}
+[13:13:33] [Server thread/INFO]: [Not Secure] <a5ephu> quew
+[13:13:40] [Server thread/INFO]: [Not Secure] <a5ephu> noOoooOoo
+[13:22:11] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-267, y=59, z=163} hx{x=-268, y=59, z=163}
+[13:22:11] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-267, y=59, z=163} hx{x=-268, y=59, z=163}
+[13:22:11] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-267, y=59, z=163} hx{x=-268, y=59, z=163}
+[13:22:11] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-267, y=59, z=163} hx{x=-268, y=59, z=163}
+[13:26:28] [Server thread/INFO]: [Not Secure] <a5ephu> vuelvo ahora
+[13:26:34] [Server thread/INFO]: [Not Secure] <a5ephu> si
+[13:27:10] [Server thread/INFO]: [Not Secure] <a5ephu> voy a volver con barcas para los cerdos tochos
+[13:30:30] [Server thread/INFO]: [Not Secure] <a5ephu> si
+[13:30:34] [Server thread/INFO]: [Not Secure] <a5ephu> sisi
+[13:30:39] [Server thread/INFO]: [Not Secure] <a5ephu> te llevo a casa de estos?
+[13:30:48] [Server thread/INFO]: [Not Secure] <a5ephu> gloustone a casa de david
+[13:31:05] [Server thread/INFO]: [Not Secure] <a5ephu> 3 stacks
+[13:31:13] [Server thread/INFO]: [Not Secure] <a5ephu> donde estas
+[13:31:28] [Server thread/INFO]: [Not Secure] <a5ephu> te dejo en el cofre de la estacion
+[13:32:11] [Server thread/INFO]: Villager cev['Villager'/49298, l='ServerLevel[world]', x=-245.70, y=83.03, z=-269.70] died, message: 'Villager was squished too much'
+[13:33:49] [Server thread/INFO]: [Not Secure] <a5ephu> zzzz
+[13:33:56] [Server thread/INFO]: Trosquito was doomed to fall by a5ephu
+[13:33:59] [Server thread/INFO]: [Not Secure] <a5ephu> hostia
+[13:34:17] [Server thread/INFO]: [Not Secure] <a5ephu> pero por que tenias tan poca vida?
+[13:34:23] [Server thread/INFO]: [Not Secure] <a5ephu> ah lol
+[13:34:24] [Server thread/INFO]: [Not Secure] <a5ephu> perdon
+[13:34:41] [Server thread/INFO]: [Not Secure] <a5ephu> las dejo ahi?
+[13:35:21] [Server thread/INFO]: [Not Secure] <a5ephu> 1 sec
+[13:35:36] [Server thread/INFO]: [Not Secure] <a5ephu> si siguen
+[13:35:42] [Server thread/INFO]: [Not Secure] <a5ephu> ok
+[13:36:00] [Server thread/INFO]: [Not Secure] <a5ephu> ya hay escaleras
+[13:36:03] [Server thread/INFO]: [Not Secure] <a5ephu> las de los animales
+[13:36:12] [Server thread/INFO]: Villager cev['Villager'/49307, l='ServerLevel[world]', x=-245.30, y=83.05, z=-269.14] died, message: 'Villager was squished too much'
+[13:36:54] [Server thread/INFO]: [Not Secure] <a5ephu> las ovejas te cogieron todo
+[13:37:02] [Server thread/INFO]: [Not Secure] <a5ephu> hay una full diamante
+[13:37:20] [Server thread/INFO]: [Not Secure] <a5ephu> bueno pues espabila no?
+[13:38:17] [Server thread/INFO]: [Not Secure] <a5ephu> ya
+[13:38:51] [Server thread/INFO]: [Not Secure] <a5ephu> vuelvo al nether
+[13:40:46] [Server thread/INFO]: [Not Secure] <Trosquito> La guerra de los Cien Años (en francés: Guerre de Cent Ans; en inglés: Hundred Years' War) fue un conflicto armado entre los reinos de Francia e Inglaterra que duró 116 años, del 24 de mayo de 1337 al 19 de octubre de 1453.5​6​7​8​ El conflicto fue de raíz
+[13:40:51] [Server thread/INFO]: [Not Secure] <a5ephu> ?
+[13:41:12] [Server thread/INFO]: [Not Secure] <Trosquito> Benito Antonio Martínez Ocasio (Almirante Sur, 10 de marzo de 1994),4​ conocido como Bad Bunny, es un cantante, compositor, productor musical y luchador profesional estadounidense.5​ Su estilo musical es generalmente definido como reguetón y trap latino, a
+[13:42:19] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-280, y=59, z=47} hx{x=-283, y=60, z=50}
+[13:42:19] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-280, y=59, z=47} hx{x=-283, y=60, z=50}
+[13:42:19] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-280, y=59, z=47} hx{x=-283, y=60, z=50}
+[13:42:19] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-280, y=59, z=47} hx{x=-283, y=60, z=50}
+[13:42:19] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-280, y=59, z=47} hx{x=-283, y=60, z=50}
+[13:42:19] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-280, y=59, z=47} hx{x=-283, y=60, z=50}
+[13:42:19] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-280, y=59, z=47} hx{x=-283, y=60, z=50}
+[13:42:19] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-280, y=59, z=47} hx{x=-283, y=60, z=50}
+[13:42:19] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-280, y=59, z=47} hx{x=-283, y=60, z=50}
+[13:42:19] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-280, y=59, z=47} hx{x=-283, y=60, z=50}
+[13:42:21] [Server thread/INFO]: Aila lost connection: Disconnected
+[13:42:21] [Server thread/INFO]: Aila left the game
+[13:44:32] [Server thread/INFO]: a5ephu has made the advancement [Who is Cutting Onions?]
+[13:44:40] [Server thread/INFO]: [Not Secure] <a5ephu> chavales
+[13:44:43] [Server thread/INFO]: [Not Secure] <a5ephu> mejora de netherite
+[13:44:47] [Server thread/INFO]: [Not Secure] <a5ephu> me marcho cagando hostias
+[13:44:48] [Server thread/INFO]: [Not Secure] <a5ephu> a casa
+[13:48:16] [Server thread/INFO]: [Not Secure] <a5ephu> enfadé a un cerdo
+[13:48:18] [Server thread/INFO]: [Not Secure] <a5ephu> mierda
+[13:48:27] [Server thread/INFO]: [Not Secure] <a5ephu> voy a esperar
+[13:57:11] [Server thread/INFO]: Trosquito fell from a high place
+[13:57:13] [Server thread/WARN]: Trosquito moved too quickly! 24.55294508753451,25.0,22.65402933614166
+[14:05:34] [Server thread/INFO]: Villager cev['Villager'/63931, l='ServerLevel[world]', x=-245.70, y=83.03, z=-269.22] died, message: 'Villager was squished too much'
+[14:30:04] [Server thread/INFO]: Villager cev['Villager'/63950, l='ServerLevel[world]', x=-245.70, y=83.05, z=-269.13] died, message: 'Villager was squished too much'
+[14:36:09] [Server thread/INFO]: [Not Secure] <a5ephu> zzzzz
+[14:42:45] [Server thread/INFO]: Villager cev['Librarian'/64273, l='ServerLevel[world]', x=-227.50, y=83.00, z=-323.51] died, message: 'Librarian was slain by a5ephu'
+[14:47:40] [Server thread/INFO]: Trosquito lost connection: Disconnected
+[14:47:40] [Server thread/INFO]: Trosquito left the game
+[14:50:02] [Server thread/INFO]: a5ephu lost connection: Disconnected
+[14:50:02] [Server thread/INFO]: a5ephu left the game
+[14:50:08] [Server thread/INFO]: There are 0 of a max of 6 players online: 
+[14:50:09] [Server thread/INFO]: Stopping the server
+[14:50:09] [Server thread/INFO]: Stopping server
+[14:50:09] [Server thread/INFO]: Saving players
+[14:50:09] [Server thread/INFO]: Saving worlds
+[14:50:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:50:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14:50:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14:50:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:50:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:50:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:50:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
